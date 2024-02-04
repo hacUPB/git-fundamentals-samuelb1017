@@ -3,3 +3,5 @@
 Evaluación sobre uso de git para manejo de repositorios. Se espera que el estudiante cree un programa en C y corra unos vectores de prueba. 
 # EVALUACIÓN 1
 Inicio la evaluación de git agregando cambios en el readme para subirlos a github.
+![Logo de git](imagen1.jpg)
+[Enlace a github la pagina principal](https://github.com/github)
